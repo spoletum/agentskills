@@ -1,0 +1,22 @@
+{
+  "name": "skill-template",
+  "description": "Template for creating new skills",
+  "version": "1.0.0",
+  "type": "function",
+  "parameters": {
+    "type": "object",
+    "properties": {},
+    "required": []
+  },
+  "implementation": {
+    "language": "python",
+    "entry_point": "main",
+    "dependencies": []
+  },
+  "examples": [],
+  "metadata": {
+    "author": "",
+    "created": "",
+    "tags": []
+  }
+}

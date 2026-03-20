@@ -1,0 +1,15 @@
+{
+  "name": "command-template",
+  "description": "Template for creating new commands",
+  "version": "1.0.0",
+  "command": "",
+  "arguments": [],
+  "options": {},
+  "help_text": "",
+  "examples": [],
+  "metadata": {
+    "author": "",
+    "created": "",
+    "tags": []
+  }
+}
